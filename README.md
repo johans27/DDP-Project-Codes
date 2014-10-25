@@ -13,6 +13,7 @@ Codes used to build the Shiny App
 8. 
 
 Once on the application, it is easy to use:
+
 1. Enter a temperature value
 2. Enter a Wind value
 3. These 2 variables will allow you to see your ozone estimation
