@@ -10,3 +10,9 @@ Codes used to build the Shiny App
 5. Secondly, we create our server.R code.
 6. First of all, we specify our function which display our prediction.
 7. Finally, we create our output to be display on the application.
+8. 
+
+Once on the application, it is easy to use:
+1. Enter a temperature value
+2. Enter a Wind value
+3. These 2 variables will allow you to see your ozone estimation
