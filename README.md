@@ -9,8 +9,7 @@ Codes used to build the Shiny App
 4. Using a mainPanel command, we can display values entered for the user and see our predicted value, in this case "Ozone".
 5. Secondly, we create our server.R code.
 6. First of all, we specify our function which display our prediction.
-7. Finally, we create our output to be display on the application.
-8. 
+7. Finally, we create our outputs to be display on the application.
 
 Once on the application, it is easy to use:
 
